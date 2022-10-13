@@ -277,6 +277,7 @@ const ProfileFriendsList = styled.div`
     &:hover {
       color: #383838;
     }
+    padding: 8px;
   };
   button {
     width: 19vw;
