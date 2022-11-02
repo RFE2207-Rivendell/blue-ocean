@@ -15,7 +15,6 @@ Chat Chat is an educational learning website that allows teachers and language l
   - [Live chat](#live-chat)
   - [Live site translation](#live-site-translation)
   - [Live chat translation](#including-live-chat-translation)
-  - [Live Chat](#live-chat)
   - [Video Chat](#video-chat)
 - [Contributors](#contributors)
 
